@@ -1,0 +1,58 @@
+  export const kpiData = [
+    {
+      id: "totalRevenue",
+      title: "Total Revenue",
+      value: "$2.5M",
+      change: "+12%",
+      changeColor: "text-green-600 dark:text-green-400",
+    },
+    {
+      id: "netProfit",
+      title: "Net Profit",
+      value: "$1.2M",
+      change: "+8%",
+      changeColor: "text-green-600 dark:text-green-400",
+    },
+    {
+      id: "operatingExpenses",
+      title: "Operating Expenses",
+      value: "$750K",
+      change: "-5%",
+      changeColor: "text-red-600 dark:text-red-400",
+    },
+    {
+      id: "cashFlow",
+      title: "Cash Flow",
+      value: "$980K",
+      change: "+6%",
+      changeColor: "text-green-600 dark:text-green-400",
+    },
+    {
+      id: "ebitda",
+      title: "EBITDA",
+      value: "$1.5M",
+      change: "+10%",
+      changeColor: "text-green-600 dark:text-green-400",
+    },
+    {
+      id: "debtEquity",
+      title: "Debt to Equity",
+      value: "0.45",
+      change: "-2%",
+      changeColor: "text-green-600 dark:text-green-400",
+    },
+    {
+      id: "accountsReceivable",
+      title: "Accounts Receivable",
+      value: "$600K",
+      change: "+4%",
+      changeColor: "text-green-600 dark:text-green-400",
+    },
+    {
+      id: "accountsPayable",
+      title: "Accounts Payable",
+      value: "$420K",
+      change: "-3%",
+      changeColor: "text-red-600 dark:text-red-400",
+    },
+  ];
