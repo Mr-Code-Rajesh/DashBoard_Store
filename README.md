@@ -32,7 +32,7 @@ An interactive **Financial & Product Dashboard** built with **React**, **Tailwin
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/financial-product-dashboard.git
-cd financial-product-dashboard
+git clone https://github.com/Mr-Code-Rajesh/Dashboard_Store.git
+cd Dashboard_Store
 
 
