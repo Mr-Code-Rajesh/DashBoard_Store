@@ -28,6 +28,11 @@ An interactive **Financial & Product Dashboard** built with **React**, **Tailwin
 
 ---
 
+## 🎥 Demo
+### Dashboard Overview
+![Dashboard Screenshot](./assets/dashboardimg.png)
+
+
 ## ⚙️ Installation  
 
 Clone the repository:  
@@ -35,9 +40,8 @@ Clone the repository:
 git clone https://github.com/Mr-Code-Rajesh/Dashboard_Store.git
 cd Dashboard_Store
 
-## 🎥 Demo
 
-### Dashboard Overview
-![Dashboard Screenshot](./assets/dashboardimg.png)
+
+
 
 
