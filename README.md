@@ -1,12 +1,38 @@
-# React + Vite
+# 📊 Financial & Product Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?logo=tailwind-css)  
+![Framer Motion](https://img.shields.io/badge/FramerMotion-Animations-ff69b4?logo=framer)  
+![License](https://img.shields.io/badge/License-MIT-green.svg)  
 
-Currently, two official plugins are available:
+An interactive **Financial & Product Dashboard** built with **React**, **Tailwind CSS**, and **Framer Motion**, using **dynamic JSON data** for flexibility and scalability.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📈 **Financial Dashboard** – Revenue, expenses, and profit tracking  
+- 🛍 **Product Dashboard** – Product sales and performance analytics  
+- ⚡ **Dynamic JSON Data** – Easily configurable via `data/` folder  
+- 🎬 **Framer Motion Animations** – Smooth and modern transitions  
+- 🎨 **Tailwind CSS** – Fully responsive and customizable UI  
+- ⚛ **Reusable Components** – Modular and maintainable React structure  
+
+---
+
+## 🛠 Tech Stack  
+
+- [React](https://react.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [Framer Motion](https://www.framer.com/motion/)  
+
+---
+
+## ⚙️ Installation  
+
+Clone the repository:  
+```bash
+git clone https://github.com/your-username/financial-product-dashboard.git
+cd financial-product-dashboard
+
+
