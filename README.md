@@ -35,4 +35,9 @@ Clone the repository:
 git clone https://github.com/Mr-Code-Rajesh/Dashboard_Store.git
 cd Dashboard_Store
 
+## 🎥 Demo
+
+### Dashboard Overview
+![Dashboard Screenshot](./assets/dashboardimg.png)
+
 
